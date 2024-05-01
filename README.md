@@ -118,6 +118,12 @@ Only main chapters:
 - **[Shell Tricks](#shell-tricks-toc)**
 - **[Shell Functions](#shell-functions-toc)**
 
+Unofficial Addition:
+
+-basic tech terminologies for begginers.
+LINK:(https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.unapcict.org/sites/default/files/2019-01/ICT_Glossary-draft.pdf&ved=2ahUKEwjU3NHqkOuFAxUfXGcHHZxbCoQQFnoECA8QAQ&usg=AOvVaw1HZJDhOo-E4w6ouzwNS9mN)
+
+
 ## :trident: &nbsp;The Book of Secret Knowledge (Chapters)
 
 #### CLI Tools &nbsp;[<sup>[TOC]</sup>](#anger-table-of-contents)
